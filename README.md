@@ -7,4 +7,8 @@ Single-page hub for Michael Borck's programming education properties:
 - **Programming Toys** — single-file interactive pages that each break one programming misconception ([programmingtoys.borck.education](https://programmingtoys.borck.education))
 - Published packages on PyPI and npm
 
-Plain HTML/CSS, served via GitHub Pages. Sister site to [borck.education](https://borck.education).
+Plain HTML/CSS, served via GitHub Pages. Sister site to [borck.education](https://borck.education);
+the companion books on intentional AI collaboration live at
+[books.borck.education](https://books.borck.education), and the toys' AI and security siblings at
+[aitoys.borck.education](https://aitoys.borck.education) and
+[securitytoys.borck.education](https://securitytoys.borck.education).
